@@ -1,2 +1,1 @@
-# education_bursary
-AI-driven bursary allocation fund
+# iBursary.github.io
